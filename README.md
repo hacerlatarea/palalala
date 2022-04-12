@@ -1,2 +1,2 @@
 # palalala
-Lautaro y raul 
+Autores lautaro y raul
